@@ -94,6 +94,16 @@ La télémétrie permet de suivre la charge de la batterie, les températures in
  2. L'alimentation de la chaîne de mesure doit posséder une autonomie supérieure à 4 heures.
 
  3. La localisation se fait alors par l'écoute d'une des _fréquences_ utilisées par  _Planète Sciences_ ( 137.05 MHz ).
+
+Section Système Numérique Informatique & Réseaux
+![Logo Lycée Touchard](https://www.touchard-washington.fr/wp-content/uploads/elementor/thumbs/LYCEE-TW-RVB-BLEU@2x-ouqqzhaifqs0ecueqajd2l306gb31pbjc3bpoxcfrw.png)
+
+
+<!-- Toolbox
+Génération du README  https://stackedit.io/app#
+Génération des badges https://shields.io/category/build
+
+
  
  
 
