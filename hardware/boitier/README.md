@@ -16,4 +16,6 @@ https://cloudconvert.com/svg-to-dxf
 https://viewer.autodesk.com/designviews
 
 
+# Les piéces mécaniques
 
+![coins nacelle](/hardware/boitier/Coins_nacelle.png)
