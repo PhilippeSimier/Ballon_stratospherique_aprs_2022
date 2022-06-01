@@ -106,7 +106,8 @@ Prévision de la trajectoire 48 heures avant le lancement
 
 Section Système Numérique Informatique & Réseaux
 
-![Logo Lycée Touchard](/images/logo_touchard.png)
+![Logo Lycée Touchard](/images/logo_touchard.png) ![Logo CNES](/images/logo_cnes.png)
+![Logo Planete sciences](/images/logo-planetesciences.png)
 
 
 <!-- Toolbox
