@@ -87,6 +87,15 @@ ou sur le site https://aprs-map.info/
 
 La télémétrie permet de suivre la charge de la batterie, les températures intérieur et extérieur, le nombre par minute de rayons cosmiques. 
 
+## Les prévisions de trajectoire et météorologiques
+
+[Prévisions de la trajectoire](https://predict.habhub.org/)
+[Prévisions météorologiques](https://www.ventusky.com)
+
+Prévision de la trajectoire 48 heures avant le lancement
+![Prévision trajectoire](/images/Prevision_trajectoire_1.png)
+
+
 ## Les contraintes
 
  1. La chaîne de mesure doit être étalonnée dans son intégralité     (système au sol compris) avant le vol.
