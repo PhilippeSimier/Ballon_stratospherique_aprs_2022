@@ -60,7 +60,7 @@ La nacelle est recouverte par collage d'une couverture de survie. La colle utili
 
 L’ensemble des cartes électroniques ont le même format et sont fixées au couvercle. Elles sont ainsi facilement retirables de la nacelle. Les cartes sont empilées  et sont maintenues séparées les unes des autres au moyen de 4 entretoises hexagonales disposées dans les coins. 
 
-![Carte de télémesures](/images/carte_télémesures_2.jpg)
+![Carte de télémesures](/images/Nacelle_2022_3.jpg)
 
 Tout  au  long  du  vol,  les  mesures  sont  enregistrées à bord sur une carte SD. elles  sont aussi envoyées au sol par les émetteurs embarqués (APRS LORA et SIGFOX).
 
