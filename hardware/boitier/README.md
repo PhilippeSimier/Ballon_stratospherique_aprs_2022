@@ -15,6 +15,9 @@ https://cloudconvert.com/svg-to-dxf
 
 https://viewer.autodesk.com/designviews
 
+# Assemblage nacelle
+
+![Assemblage nacelle](/hardware/boitier/Nacelle.png)
 
 # Les piéces mécaniques
 
@@ -34,6 +37,6 @@ https://viewer.autodesk.com/designviews
 
 ![plaque carte SD & GPS](/hardware/boitier/plaque_intermédiaire_CarteSD_GPS.png)
 
-![plaque antenne batterie gopro](/hardware/boitier/plaque_antenne_batterie.png)
+![support antenne batterie gopro](/hardware/boitier/support_antenne_batterie.png)
 
 
